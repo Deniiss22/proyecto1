@@ -1,0 +1,15 @@
+h1 {
+    color: aqua;
+    font-size: 30px;
+}
+p{
+    background-color: rgb(252, 252, 252);
+    color: rgb(57, 54, 229);
+}
+body{
+    background-color: dimgrey;
+}
+a{
+    color: aqua;
+    font-size: 70px;
+}
